@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.container {
+    padding: 120px 80px;
+}
+
+.banner {
+    background-image: url("/img/banner-topo.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.marca-imagem {
+    max-width: 250px;
+    color: #3c184e;
+}
+
+.marca-imagem img {
+    width: 30px;
+    margin-right: 5px;
+}
+
+.marca-imagem .texto-imagem {
+    font-size: 35px;
+    margin: 0 0 5px 0;
+}
+
+.marca-imagem .slogan {
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+}
+
+.titulo-banner {
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0;
+    background: #ffffffc4;
+    box-shadow: 0 8px 32px #1f26875e;
+}
+
+.titulo-topo {
+    font-size: 60px;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800;
+    margin: 0 0 40px;
+}
+
+.fale-conosco {
+    text-align: center;
+    width: 200px;
+    padding: 10px 25px;
+    font-size: 20px;
+    background-color: #3c184e;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.fale-conosco a {
+    color: #ffff;
+    text-decoration: none;
+}
+
+.fale-conosco img {
+    width: 25px;
+}
+
+h3 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px;
+}
+
+.servicos {
+    max-width: 800px;
+    color: #3c184e;
+    margin: 0 auto 50px;
+}
+
+.servicos li {
+    font-size: 20px;
+    margin: 0 0 20px;
+}
+
+.imagem-servicos {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.imagem-servicos img {
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
